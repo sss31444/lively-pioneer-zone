@@ -169,8 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Director of Teaching & Head of Distance Learning
-Managed the development and oversight of a 200+ member teaching faculty.
-Directed the planning and execution of academic programs for in-person classes, serving a student body of over 6,000.
-Spearheaded the operation and maintenance of the online learning platform for distance education programs, supporting over 10,000 enrolled students and a course library exceeding 4,000 hours.
-Regularly organized a variety of academic exchange events, including large-scale conferences with attendance surpassing 3,000 participants.
+DAs Director of Teaching and Head of Distance Learning, my responsibilities included managing a 200+ member faculty, directing academic programs for over 6,000 in-person students, spearheading the online platform supporting 10,000+ distance learners and a 4,000-hour course library, and regularly organizing academic events including conferences for over 3,000 participants.
