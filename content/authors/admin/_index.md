@@ -169,4 +169,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Director of Teaching & Head of Distance Learning
+Managed the development and oversight of a 200+ member teaching faculty.
+Directed the planning and execution of academic programs for in-person classes, serving a student body of over 6,000.
+Spearheaded the operation and maintenance of the online learning platform for distance education programs, supporting over 10,000 enrolled students and a course library exceeding 4,000 hours.
+Regularly organized a variety of academic exchange events, including large-scale conferences with attendance surpassing 3,000 participants.
