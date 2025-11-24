@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jian Sun
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jian
+last_name: Sun
 
 # Pronouns (optional)
 pronouns: he/him
