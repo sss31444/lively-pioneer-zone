@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sunjian@psych.ac.cn'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/wechat
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
