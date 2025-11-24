@@ -27,14 +27,14 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Institute of Psychology, Chinese Academy of Sciences
+    url: https://www.psych.ac.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:sunjian@psych.ac.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
